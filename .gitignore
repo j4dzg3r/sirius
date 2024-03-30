@@ -1,0 +1,11 @@
+.venv
+yolov5m.pt
+videos/*
+videos
+frame_saver.py
+all_frames
+all_frames/*
+frames
+frames/*
+.DS_Store
+.idea
